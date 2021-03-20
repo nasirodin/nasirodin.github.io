@@ -41,7 +41,7 @@
       <div class="sidebar-nav">
         {% for social in site.data.social -%}
         <a href="{{ social.url }}" title="{{ social.title }}" target="_blank"> 
-          <img src="{{ site.baseurl }}{{ social.icon }}" class="social-logo">
+          <img src="{{ site.url }}{{ social.icon }}" class="social-logo">
         </a>
         {%- endfor %}
       </div>
