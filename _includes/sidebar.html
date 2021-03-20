@@ -1,6 +1,16 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      {% if site.author.avatar -%}
+        <div class="sidebar-section">
+      {%- if site.author.avatar contains "://" -%}
+      {%- assign avatar = site.author.avatar -%}
+      {%- else -%}
+        {%- assign avatar = site.author.avatar | relative_url -%}
+      {%- endif -%}
+        <img src="{{ avatar }}" class="author-avatar u-photo align-center" alt="{{ site.author.name }}">
+        </div>
+      {%- endif %}
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
