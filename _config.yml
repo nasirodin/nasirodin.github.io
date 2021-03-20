@@ -16,6 +16,12 @@ author:
   name:           'Nasirodin Mazrooei'
   url:            https://twitter.com/ooddin
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
 paginate:         5
 
 # Custom vars
