@@ -15,7 +15,7 @@ baseurl:          /
 author:
   name:           'Nasirodin Mazrooei'
   url:            https://twitter.com/ooddin
-  avatar:         public/nasirodin.png
+  avatar:         public/avatar.png
 plugins:
   - jekyll-seo-tag
   - jekyll-feed

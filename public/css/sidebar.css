@@ -1,0 +1,18 @@
+
+.author-avatar {  
+    border-radius: 50%;
+    height: auto;
+    width: 70%;
+  }
+
+  .social-logo{
+      width: 32px;
+      height: 32px;
+      float: left;
+      padding: 5px;
+  }
+
+  .float-left
+  {
+      float: left;
+  }

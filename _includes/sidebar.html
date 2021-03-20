@@ -36,7 +36,20 @@
         {% endif %}
       {% endfor %}
     </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <div>
+      {% if site.data.social -%}
+      <div class="sidebar-nav">
+        {% for social in site.data.social -%}
+        <a href="{{ social.url }}" title="{{ social.title }}" target="_blank"> 
+          <img src="{{ site.baseurl }}{{ social.icon }}" class="social-logo">
+        </a>
+        {%- endfor %}
+      </div>
+      {%- endif %}
+    </div>
+    
+    <div class="float-left">
+      <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    </div>
   </div>
 </div>
