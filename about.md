@@ -1,30 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My name is Nasirodin Mazrooei (the guy who smiling at the left) . 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I started my career as a software engineer after graduating with a master's in software engineering from the University of Kashan in 2013.<br/>
+Currently, I'm working in [Dotin](https://www.dotin.ir/) software corporation as a software engineer. at Dotin we mainly focused on developing software solutions for financial institutes (Core banking systems, Payments solutions, ERP, ... )<br/>
+Recently I joined [BIMLOGiQ](http://bimlogiq.com/) as a part-time BIM developer. a rapid-growing startup providing AI solutions for the construction industry.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+You can contact me by [email](mailto:nasirodin@gmail.com) and [@ooddin](https://twitter.com/ooddin) in Twitter. feel free to contact me, I'm checking my emails and messages regularly and I'm open to questions.
