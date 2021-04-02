@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Nasirodin
 tagline:          'Personal page'
 description:      'Writings are mostly about my daily experiments at work, Revit API and other cool kinds of stuff!'
-url:              https://nasirodin.github.io/
+url:              /
 baseurl:          /
 
 author:
